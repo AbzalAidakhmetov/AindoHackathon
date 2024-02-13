@@ -2,6 +2,13 @@
 
 This repository contains our winning solution for the Synthetic Data Hackathon: Accelerate AI, where we achieved the highest ROC AUC score on the test set. Our approach utilized LightGBM in conjunction with Optuna for hyperparameter optimization, focusing on predicting activities in a household based on sensor data.
 
+## Team 
+- Abzal Aidakhmetov (abzalaidakhmetov@gmail.com)
+- Eldar Gabdulsattarov
+- Adilkhan Bakridenov
+- Nadir Nuralin
+- Yerassyl Zhalgasbayev
+
 ## Challenge Overview
 
 The hackathon challenge was to predict household activities from gas, temperature, and infrared sensor data within an elderly person's home. The dataset included readings from various rooms, with the task to predict activity levels based on sensor inputs.
