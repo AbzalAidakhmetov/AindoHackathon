@@ -22,6 +22,7 @@ The dataset featured columns for timestamp, temperature, humidity, several gas s
 - `data_synth_train.csv`: Training dataset with sensor readings and activity indicators.
 - `data_synth_test.csv`: Test dataset with sensor readings, where predictions were made.
 - `data_submission_example.csv`: Example submission format with predicted activity probabilities.
+- `Aindo_Hackathon_(Feb_3_4).ipynb`: Main file with our solution for the hackathon.
 
 ## Our Solution
 
