@@ -5,7 +5,7 @@ This repository contains our winning solution for the Synthetic Data Hackathon: 
 ## Team 
 - Abzal Aidakhmetov (abzalaidakhmetov@gmail.com)
 - Adilkhan Bakridenov (adilkhan.bakridenov@gmail.com)
-- Eldar Gabdulsattarov 
+- Eldar Gabdulsattarov (egabdulsattarov@gmail.com)
 - Nadir Nuralin
 - Yerassyl Zhalgasbayev
 
